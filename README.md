@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a React Native app<br>🌱 I’m currently learning React Native<br>💬 Ask me about Web and Web3<br>💻 I freelance on Solana Blockchain as a full-stack developer
+🌱 I’m currently learning React Native<br>💬 Ask me about Web and Web3<br>💻 I freelance on Solana Blockchain as a full-stack web3 developer
 
 
 ## 🌐 Socials:
