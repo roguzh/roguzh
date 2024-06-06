@@ -2,7 +2,9 @@
 🌱 I’m a full stack developer who mains Solana's and Metaplex's JS libraries along with Next.js on web development.
 
 I have been in Solana ecosystem since 2021 and been actively working as a developer.<br/><br/>
-I worked as a full-time developer for Launchlabs (Solana NFT launchpad that used to create NFTs with CMv1 and CMv2), Duel Arena (Real-time web3 pvp blackjack game), (current position) Reavers & Last Haven (both idle solana based games).<br/>
+- Worked as a full-time developer for Launchlabs (Solana NFT launchpad that used to create NFTs with CMv1 and CMv2)
+- Duel Arena (Real-time web3 pvp blackjack game)
+- Current Position: Reavers & Last Haven (both idle solana based games).<br/>
 My main responsibilities was full-stack web development along with NFT creation, different tools to interact chain, etc. <br/><br/>
 I am also freelancing mainly on DegenDevs a web3 agency that assists project with their all kind of needs; NFT updates, creation, blockchain integrations, project management, full stack web application development etc.
 
