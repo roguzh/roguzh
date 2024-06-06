@@ -7,7 +7,7 @@ I have been in Solana ecosystem since 2021 and been actively working as a develo
 - Current Position: Reavers & Last Haven (both idle solana based games).<br/>
 <br/>
 I am also freelancing mainly on DegenDevs a web3 agency that assists project with their all kind of needs; NFT updates, creation, blockchain integrations, project management, full stack web application development etc.
-<br/>
+<br/><br/>
 Feel free to contact me on Discord: `r.og` or on Twitter: `@r0guzh`
 
 
