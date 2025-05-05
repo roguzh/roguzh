@@ -2,8 +2,6 @@
 🌱 I’m a full stack developer who mains Solana's and Metaplex's JS libraries along with Next.js on web development.
 
 I have been in Solana ecosystem since 2021 and been actively working as a developer.
-<br/><br/>
-Currently building  [![Friday AI](https://www.friday.run/_next/image?url=%2Fimages%2Flogo.png&w=96&q=75)](https://www.friday.run/) an AI-driven platform that gathers real-time news insights to generate tokens based on current events and market trends.<br/>
 <br/>
 I am also freelancing mainly on DegenDevs a web3 agency that assists project with their all kind of needs; NFT updates, creation, blockchain integrations, project management, full stack web application development etc.
 <br/><br/>
