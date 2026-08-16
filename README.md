@@ -1,11 +1,9 @@
-# 💻 About Me:
-Backend Developer | Web3 Specialist
+## 💻 About Me:
+#### Full Stack Developer | Web3 Specialist
+4+ years shipping production systems end-to-end — Node.js, NestJS, Next.js/React on the web side, Java & Python across the stack, and multi-chain Web3 work spanning Solana, Ethereum, Sui & Aptos.
+Currently building multi-chain products. Previously led backend + frontend architecture at Codefoam, taking a blockchain platform to $10M+ in transaction volume as Team Lead.
 
-Building production blockchain applications since 2021. Working with Node.js, NestJS, Java across Solana, Ethereum, Sui & Aptos.
-
-Currently at DegenDevs (UK). Previously led backend at Codefoam (launched $10M+ platform).
-
-Open for freelance - NFT platforms, blockchain integrations, full-stack dApps.
+Open for freelance - full-stack web apps, NFT platforms, blockchain integrations, dApps.
 
 📬 Discord: `r.og` | Twitter: `@r0guzh`
 
